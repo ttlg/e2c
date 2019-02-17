@@ -1,0 +1,26 @@
+{
+  "name": "e2c",
+  "version": "0.1.0",
+  "description": "convert everything to RGB color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttlg/e2c.git"
+  },
+  "keywords": [
+    "utility",
+    "color",
+    "convert",
+    "javascript",
+    "text"
+  ],
+  "author": "ttlg <dev.ttlg@gmail.com> (https://github.com/ttlg)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttlg/e2c/issues"
+  },
+  "homepage": "https://github.com/ttlg/e2c#readme"
+}
