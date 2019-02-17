@@ -21,6 +21,5 @@ const textToColorMemorize = () => {
     return color
   }
 }
-export default e2c = textToColorMemorize()
-module.exports = e2c;
+export const e2c = textToColorMemorize()
 
